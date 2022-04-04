@@ -1,0 +1,17 @@
+C:\Users\o.sidnev\source\repos\weather\bin\Debug\net6.0\weather.exe
+C:\Users\o.sidnev\source\repos\weather\bin\Debug\net6.0\weather.deps.json
+C:\Users\o.sidnev\source\repos\weather\bin\Debug\net6.0\weather.runtimeconfig.json
+C:\Users\o.sidnev\source\repos\weather\bin\Debug\net6.0\weather.dll
+C:\Users\o.sidnev\source\repos\weather\bin\Debug\net6.0\weather.pdb
+C:\Users\o.sidnev\source\repos\weather\obj\Debug\net6.0\weather.csproj.AssemblyReference.cache
+C:\Users\o.sidnev\source\repos\weather\obj\Debug\net6.0\weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o.sidnev\source\repos\weather\obj\Debug\net6.0\weather.AssemblyInfoInputs.cache
+C:\Users\o.sidnev\source\repos\weather\obj\Debug\net6.0\weather.AssemblyInfo.cs
+C:\Users\o.sidnev\source\repos\weather\obj\Debug\net6.0\weather.csproj.CoreCompileInputs.cache
+C:\Users\o.sidnev\source\repos\weather\obj\Debug\net6.0\weather.dll
+C:\Users\o.sidnev\source\repos\weather\obj\Debug\net6.0\refint\weather.dll
+C:\Users\o.sidnev\source\repos\weather\obj\Debug\net6.0\weather.pdb
+C:\Users\o.sidnev\source\repos\weather\obj\Debug\net6.0\weather.genruntimeconfig.cache
+C:\Users\o.sidnev\source\repos\weather\obj\Debug\net6.0\ref\weather.dll
+C:\Users\o.sidnev\source\repos\weather\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\o.sidnev\source\repos\weather\obj\Debug\net6.0\weather.csproj.CopyComplete
