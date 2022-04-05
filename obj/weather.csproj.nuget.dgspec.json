@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\o.sidnev\\source\\repos\\weather\\weather.csproj": {}
+    "C:\\d\\mvs projects\\Weather\\weather.csproj": {}
   },
   "projects": {
-    "C:\\Users\\o.sidnev\\source\\repos\\weather\\weather.csproj": {
+    "C:\\d\\mvs projects\\Weather\\weather.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\o.sidnev\\source\\repos\\weather\\weather.csproj",
+        "projectUniqueName": "C:\\d\\mvs projects\\Weather\\weather.csproj",
         "projectName": "weather",
-        "projectPath": "C:\\Users\\o.sidnev\\source\\repos\\weather\\weather.csproj",
-        "packagesPath": "C:\\Users\\o.sidnev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\o.sidnev\\source\\repos\\weather\\obj\\",
+        "projectPath": "C:\\d\\mvs projects\\Weather\\weather.csproj",
+        "packagesPath": "C:\\Users\\Van\\.nuget\\packages\\",
+        "outputPath": "C:\\d\\mvs projects\\Weather\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\o.sidnev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Van\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

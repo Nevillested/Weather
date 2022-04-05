@@ -1,25 +1,7 @@
-﻿using System.Net;
-using System.Text.Json;
-using System.Text.Json.Serialization;
-using System.Net.Http;
-using System.Threading.Tasks;
-using Newtonsoft.Json;
-
-
+﻿using Newtonsoft.Json;
 
 string city = Console.ReadLine();
-string url = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/"+city+"?key=ZZNADZU8FRBMC8VDJUD7GST9F&contentType=json";
-
-HttpWebRequest httpWebRequest = (HttpWebRequest)WebRequest.Create(url);
-
-HttpWebResponse httpWebResponse = (HttpWebResponse)httpWebRequest.GetResponse();
-
-string response;
-
-using (StreamReader streamReader = new StreamReader(httpWebResponse.GetResponseStream()))
-{
-    response = streamReader.ReadToEnd();
-}
+string url = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/" + city + "?unitGroup=metric&key=ZZNADZU8FRBMC8VDJUD7GST9F&contentType=json";
 
 var client = new HttpClient();
 
@@ -39,8 +21,10 @@ foreach (var day in weather.days)
     string weather_tmax = day.tempmax;
     string weather_tmin = day.tempmin;
 
+    Console.WriteLine("Learn english mthrfckr");
     Console.WriteLine("Forecast for date: " + weather_date);
-    Console.WriteLine(" General conditions: " + weather_desc);
-    Console.WriteLine(" The high temperature will be " + weather_tmax);
-    Console.WriteLine(" The low temperature will be: " + weather_tmin);
+    Console.WriteLine("Forecast for date: " + weather_date);
+    Console.WriteLine("General conditions: " + weather_desc);
+    Console.WriteLine("The high temperature will be " + weather_tmax);
+    Console.WriteLine("The low temperature will be: " + weather_tmin);
 }
